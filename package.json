@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "syled-components",
+  "version": "2.3.2",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "help": "mdx-deck"
+  },
+  "devDependencies": {
+    "mdx-deck": "^2.3.2"
+  },
+  "keywords": [],
+  "description": "Deck created with mdx-deck",
+  "dependencies": {
+    "react-router-dom": "5.0.1",
+    "styled-components": "4.3.2"
+  }
+}
